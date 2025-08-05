@@ -14,3 +14,6 @@ docker build -t guitar-shop-app .
 docker run -d -p 5000:80 --name guitar-shop-container guitar-shop-app
 
 After that, the website is available on localhost:5000
+
+To get from the first page to the second, just click on any of the brands shown on the page, the same
+thing applies for the second page
