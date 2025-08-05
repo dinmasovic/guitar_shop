@@ -1,4 +1,4 @@
-The app uses React + Vite, Docker and i18next.
+The app uses React + Vite, Docker ,Apollo and i18next.
 The project has a dockerfile, all you have to do is open clone the repository, open
 command promp, change directory to the project location and run:
 
