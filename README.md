@@ -1,6 +1,6 @@
 The app uses React + Vite, Docker and i18next.
 The project has a dockerfile, all you have to do is open clone the repository, open
-command promp, change directory to the project and run:
+command promp, change directory to the project location and run:
 
 docker build -t guitar-shop-app .
 
