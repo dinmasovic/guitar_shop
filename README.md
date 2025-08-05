@@ -7,7 +7,7 @@ The project has a dockerfile, all you have to do is open clone the repository:
 4. run git clone https://github.com/dinmasovic/guitar_shop.git
    
 
-then run:
+then go inside the guitar_shop folder on the command prompt and run:
 
 docker build -t guitar-shop-app .
 
